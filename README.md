@@ -64,4 +64,5 @@ clarity, extensibility, and correct handling of edge cases over cleverness.
 📫 Reach me
 Email:
 haidar904455@gmail.com.
+
 LinkedIn: [linkedin.com/in/haidar-ali-192abc533b](https://www.linkedin.com/in/haidar-ali-192abc533b)
