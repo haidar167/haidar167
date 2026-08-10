@@ -1,16 +1,26 @@
-## Hi there 👋
+# Haidar Ali
 
-<!--
-**haidar167/haidar167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BS Information Technology student, Agriculture University of Peshawar.  
+Focus: machine learning, computer vision, and clean system design.
 
-Here are some ideas to get you started:
+Work is oriented toward practical, readable implementations.  
+Code prioritises clarity, extensibility, and correct handling of edge cases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected Projects
+
+- **skin-disease-**  
+  Multi-class skin lesion classification pipeline. Python, extensible disease list, educational use only.
+
+- **vexel-beauty-**  
+  Technical study of layered vector illustration for high-detail portraiture.
+
+- **CV-**  
+  Personal curriculum vitae in plain HTML.
+
+### Method
+
+Clarity over cleverness.  
+Working systems over incomplete frameworks.  
+Precise language over marketing phrasing.
+
+GitHub is used as a working record, not a showcase.
