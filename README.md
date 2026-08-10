@@ -1,34 +1,23 @@
-# Haidar Ali
-
-[
+Haidar Ali
 
 ![GitHub followers](https://img.shields.io/github/followers/haidarali?style=social)
 
 ](https://github.com/haidarali)
 
-[
-
 ![Profile views](https://komarev.com/ghpvc/?username=haidarali&color=blue)
 
 ](https://github.com/haidarali)
 
-[
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-](https://www.python.org/)
-
-[
+(https://www.python.org/)
 
 ![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
-](https://www.tensorflow.org/)
-
-[
+(https://www.tensorflow.org/)
 
 ![OpenCV](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat&logo=opencv&logoColor=white)
-
-](https://opencv.org/)
+(https://opencv.org/)
 
 BS Information Technology student at the Agriculture University of Peshawar.
 Focused on machine learning, computer vision, and clean system design.
@@ -36,10 +25,7 @@ Focused on machine learning, computer vision, and clean system design.
 My work leans toward practical, readable implementations — code that prioritises
 clarity, extensibility, and correct handling of edge cases over cleverness.
 
----
-
-### 🚀 Selected Projects
-
+🚀 Selected Projects
 - **[skin-disease-](https://github.com/haidarali/skin-disease-)**
   Multi-class skin lesion classification pipeline built in Python, with an
   extensible disease list. Built for educational use only.
@@ -54,13 +40,10 @@ clarity, extensibility, and correct handling of edge cases over cleverness.
 
 ### 🛠️ Tech & Tools
 
-[
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-](https://www.python.org/)
+(https://www.python.org/)
 
-[
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
