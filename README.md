@@ -1,10 +1,8 @@
 Haidar Ali
 
-[
-
 ![GitHub followers](https://img.shields.io/github/followers/haidarali?style=social)
 
-](https://github.com/haidarali)
+(https://github.com/haidarali)
 
 
 
