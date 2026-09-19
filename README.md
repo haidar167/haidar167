@@ -10,6 +10,18 @@
 
 ---
 
+### 🎖️ GitHub Achievements & Badges
+
+| Badge | Achievement | Status |
+|---|---|---|
+| 🏹 **Quickdraw** | Opened & closed issue/PR in < 5 mins | ✅ Unlocked |
+| 👯 **Pair Extraordinaire** | Co-authored merged pull requests | ✅ Unlocked |
+| 🦈 **Pull Shark** | Merged multiple pull requests | ✅ Unlocked |
+| 🚀 **YOLO** | Merged pull request without code review | ✅ Unlocked |
+| 🧠 **Galaxy Brain** | Answered Q&A in GitHub Discussions | 🔄 In Progress (Accepted Answer Created) |
+
+---
+
 ### 🏆 GitHub Trophies
 
 [![github profile trophy](https://github-profile-trophy.vercel.app/?username=haidar167&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
