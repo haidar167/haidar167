@@ -1,26 +1,32 @@
-﻿<h1 align="center">Hi there, I'm Haidar 👋</h1>
+﻿<div align="center">
 
-<p align="center">
-  <b>AI Engineer & Machine Learning Researcher</b><br>
-  <i>Building neural networks that know when they are wrong. 🧠</i>
-</p>
+  <h1>⚡ HAIDAR ALI</h1>
+  
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6366F1&center=true&vcenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Building+Self-Calibrating+Neural+Networks;PyTorch+%7C+Computer+Vision+%7C+Model+Calibration;Uncertainty+Estimation+%26+OOD+Detection" alt="Typing SVG" />
+  </p>
 
-<p align="center">
-  <a href="https://github.com/haidar167/interoception"><img src="https://img.shields.io/badge/Featured-Interoception-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white" alt="Featured Project" /></a>
-  <a href="https://github.com/haidar167"><img src="https://img.shields.io/badge/GitHub-haidar167-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+  <p align="center">
+    <a href="https://github.com/haidar167/interoception"><img src="https://img.shields.io/badge/🔬_Featured-Interoception-6366F1?style=for-the-badge&logo=pytorch&logoColor=white" alt="Featured Project" /></a>
+    <a href="https://github.com/haidar167/haidar-portfolio"><img src="https://img.shields.io/badge/💼_Portfolio-haidar167-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
+    <a href="mailto:haidar904455@gmail.com"><img src="https://img.shields.io/badge/✉️_Contact-Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" /></a>
+  </p>
 
----
-
-### 🚀 About Me
-
-- 🔬 **Research Focus:** Machine Interoception, Model Calibration, Uncertainty Estimation, and Out-of-Distribution Detection.
-- 💻 **Core Stack:** PyTorch, Python, Computer Vision, Flask, Docker, and Automated ML Pipelines.
-- ⚡ **Current Project:** Extracting layer-wise activation statistics to detect model confusion before prediction outputs.
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 💡 Executive Overview
+
+I specialize in **Machine Interoception**, **Model Calibration**, and **Uncertainty Estimation** for Deep Learning. My work focuses on constructing self-aware neural architectures capable of evaluating representation stability and predicting their own cognitive confusion prior to emitting decision outputs.
+
+- 🔬 **Core Research:** Internal Activation Statistics, Layer Norm Drift, and Out-of-Distribution (OOD) Detection.
+- 🛠️ **Engineering Stack:** PyTorch, Python 3.10+, Computer Vision, Flask, Docker, Pytest, GitHub Actions.
+- 🎯 **Current Focus:** Scaling interoceptive feedback heads to large transformer models & real-time calibration pipelines.
+
+---
+
+### 🛠️ Technical Stack & Toolkit
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -31,25 +37,32 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
 </p>
 
 ---
 
-### ⭐ Featured Projects
+### ⭐ Featured Repositories
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🧠 <a href="https://github.com/haidar167/interoception">Interoception</a></h3>
-      <p align="center"><i>AI that knows when it's wrong</i></p>
-      <p>Neural networks that sense their own confusion from internal activation statistics. Evaluates layer norms, variance drift, and interoceptive loss heads to self-assess prediction errors in real time.</p>
-      <p><b>Tech:</b> PyTorch, Python 3.10, Pytest, GitHub Actions</p>
+      <p align="center"><i>Neural networks that sense their own confusion</i></p>
+      <p>Evaluates hidden representation norms, variance drift, and interoceptive loss heads to enable deep learning models to self-assess prediction errors in real time.</p>
+      <p>
+        <img src="https://img.shields.io/badge/pytest-passing-brightgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" />
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🔬 <a href="https://github.com/haidar167/skin-disease-">Skin Disease Detector</a></h3>
       <p align="center"><i>End-to-End Dermatological ML Pipeline</i></p>
-      <p>Multi-class skin lesion classifier using fine-tuned ResNet-18 on HAM10000. Features interactive Flask UI, SQLite storage, and Hugging Face deployment.</p>
-      <p><b>Tech:</b> PyTorch, Flask, Gradio, Hugging Face, SQLite</p>
+      <p>Multi-class skin lesion classifier using fine-tuned ResNet-18 on HAM10000. Features interactive Flask UI, SQLite storage, and Hugging Face Cloud deployment.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Gradio-Active-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Deployment-HuggingFace-blue?style=flat-square" />
+      </p>
     </td>
   </tr>
 </table>
