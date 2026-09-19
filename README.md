@@ -1,13 +1,17 @@
 ﻿<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28&height=230&section=header&text=HAIDAR%20ALI&fontSize=54&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineer%20%7C%20PyTorch%20%26%20Interoception&descSize=18&descAlignY=62&animation=fadeIn" width="100%" alt="HAIDAR ALI Header Banner" />
-</div>
 
-<div align="center">
+  <h1><code><b>&lt; HAIDAR ALI /&gt;</b></code></h1>
+
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=6366F1&center=true&vcenter=true&width=550&lines=AI+%26+Machine+Learning+Engineer;Building+Self-Calibrating+AI;PyTorch+%7C+Computer+Vision+%7C+MLOps" alt="Typing SVG" />
+  </p>
+
   <p align="center">
     <a href="https://github.com/haidar167/interoception"><img src="https://img.shields.io/badge/🔬_Featured-Interoception-6366F1?style=for-the-badge&logo=pytorch&logoColor=white" alt="Featured Project" /></a>
     <a href="https://github.com/haidar167/haidar-portfolio"><img src="https://img.shields.io/badge/💼_Portfolio-haidar167-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
     <a href="mailto:haidar904455@gmail.com"><img src="https://img.shields.io/badge/✉️_Contact-Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" /></a>
   </p>
+
 </div>
 
 ---
