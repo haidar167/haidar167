@@ -1,73 +1,61 @@
-﻿<div align="center">
+<div align="center">
 
   <h1><b>HAIDAR ALI</b></h1>
-  <h3><i>AI Engineer & Deep Learning Researcher</i></h3>
-  <p><b>Building Next-Generation Self-Aware & Calibrated AI Systems</b></p>
+  <h3><i>AI Research Engineer & Deep Learning Systems Builder</i></h3>
+  <p><b>Building AI that knows when it's wrong.</b></p>
 
   <p align="center">
     <a href="mailto:haidar904455@gmail.com"><img src="https://img.shields.io/badge/⚡_Direct_Email-haidar904455@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Direct" /></a>
-    <a href="https://github.com/haidar167/interoception"><img src="https://img.shields.io/badge/🧠_Core_Research-Interoception_Paper-6366F1?style=for-the-badge&logo=pytorch&logoColor=white" alt="Interoception Research" /></a>
-    <a href="https://github.com/haidar167/haidar-portfolio"><img src="https://img.shields.io/badge/📁_Portfolio-Full_Projects-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://github.com/haidar167/somnia"><img src="https://img.shields.io/badge/🧠_Flagship_Research-SOMNIA_v2-6366F1?style=for-the-badge&logo=pytorch&logoColor=white" alt="SOMNIA Research" /></a>
+    <a href="https://haidar167.github.io/somnia/"><img src="https://img.shields.io/badge/🌐_Live_Organism-The_Specimen-00FF9D?style=for-the-badge&logo=fastapi&logoColor=black" alt="The Specimen" /></a>
   </p>
 
 </div>
 
 ---
 
-### 🎯 Mission Statement
+### 🔬 The Neural Self-Awareness Continuum
 
-> *"Conventional neural networks output raw confidence without self-awareness. My mission is to build machine interoception—enabling neural networks to sense their own internal confusion, detect errors before they happen, and guarantee real-world safety."*
+A 5-part research continuum giving artificial neural networks an internal biological sensory system—from somatosensory activation monitors to autonomous generative imagination.
+
+| # | Project | Biological Analogy | Core Breakthrough | Paper / Demo |
+|:---:|---|---|---|:---:|
+| **1** | **[Interoception](https://haidar167.github.io/interoception/)** | Internal Visceral Sense | Senses internal confusion via hidden activation stats long before logits | [Code & Paper](https://github.com/haidar167/interoception) |
+| **2** | **[Proprioception](https://haidar167.github.io/proprioception/)** | Body Substrate Awareness | Senses physical weight damage, localizes corrupted layers, and self-repairs | [Code & Paper](https://github.com/haidar167/proprioception) |
+| **3** | **[Meta-Interoception](https://haidar167.github.io/meta-interoception/)** | Metacognitive Monitoring | Monitors the calibration of its own self-monitors under distributional shift | [Code & Paper](https://github.com/haidar167/meta-interoception) |
+| **4** | **[Nociception](https://haidar167.github.io/nociception/)** | Pain-Driven Help Seeking | Spends a limited 2% human supervision budget strictly on high-pain samples | [Code & Paper](https://github.com/haidar167/nociception) |
+| **5** | **[SOMNIA](https://haidar167.github.io/somnia/)** | **Targeted Sleep Consolidation** | **Dreams targeted examples to patch its own weak spots & lives on the web** | [Code & Paper](https://github.com/haidar167/somnia) |
 
 ---
 
-### 🚀 Key Technical Highlights & Metrics
+### 🧠 THE SPECIMEN: A Living AI Organism on the Web
 
-- **🧠 Machine Interoception:** Designed layer-wise activation statistics tracking (variance drift, feature norm stability) to detect model errors before softmax output.
-- **📈 Precision Calibration:** Reduced Expected Calibration Error (ECE) from `0.0047` baseline down to `0.0028` on deep classification benchmarks.
-- **⚡ Production ML Infrastructure:** Full end-to-end deployment pipelines (PyTorch, Docker, Flask, Hugging Face, automated CI/CD workflows).
-
----
-
-### 🛠️ Core Engineering Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Python_3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Computer_Vision-000000?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/NumPy_%26_SciPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions_CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/haidar167/somnia/master/figures/specimen_disagreement.png" alt="The Disagreement Moment" width="700"/>
 </p>
 
+A living artificial organism running on local hardware. Visitors can observe its internal state in real-time, feed it custom drawn digits, watch its 4-channel brainwaves oscillate, and witness the dramatic **Disagreement Moment** when the nominal Softmax confidence (the mouth) and 10-feature activation introspection (the gut) disagree.
+
+```bash
+# Run The Specimen Web Organism locally
+git clone https://github.com/haidar167/somnia.git
+cd somnia
+python -m uvicorn specimen.server:app --port 8000
+# Open http://localhost:8000
+```
+
 ---
 
-### 🔬 Breakthrough Projects
+### 🌟 SOMNIA: v1 $\to$ v2 Redemption Arc
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🧠 <a href="https://github.com/haidar167/interoception">Interoception Project</a></h3>
-      <p align="center"><b>Neural networks that sense their own confusion</b></p>
-      <p>Pioneered an interoceptive architecture monitoring layer norms, variance drift, and inter-layer covariances. Achieved 97.65% accuracy and reduced calibration error to 0.0028.</p>
-      <p>
-        <img src="https://img.shields.io/badge/pytest-100%25_Passing-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" />
-        <img src="https://img.shields.io/badge/Status-Research_Ready-6366F1?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🔬 <a href="https://github.com/haidar167/skin-disease-">Skin Disease AI System</a></h3>
-      <p align="center"><b>Production Medical Classifier & Cloud App</b></p>
-      <p>End-to-end dermatological classification pipeline trained on HAM10000 (ResNet-18). Deployed live on Hugging Face Cloud with Flask, Gradio, and SQLite logging.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Live_Demo-HuggingFace-FFD21E?style=flat-square" />
-        <img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=flat-square" />
-        <img src="https://img.shields.io/badge/Tunnel-Cloudflare-orange?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
+Honest scientific engineering: v1 reported the negative results of naive dreaming; v2 engineered the fixes and **flipped the sign**.
+
+| Metric / Bottleneck | v1 Result | v2 Result | Status |
+|---|:---:|:---:|:---:|
+| **Introspective Head AUC** | `0.5879` (starved) | **`0.9137` clean / `0.9276` stress** | 🚀 **+32.6pp** (10-feature MLP on stress set) |
+| **Hard-Subset Sleep Delta** | `-0.0480` (interference) | **`+0.0060` (net-positive healing)** | 🎯 **SIGN FLIPPED** (beats random & baseline) |
+| **Hard Subset Final Acc** | `0.6000` | **`0.6540`** | 📈 **+5.4pp improvement** over v1 |
+| **Sleep Policy on Clean / Drift** | `49` sleeps (over-triggered) | **`0` on clean / `4` under drift** | 🛡️ Calibrated adaptive threshold |
 
 ---
 
@@ -92,8 +80,12 @@
 
 ---
 
+### 🛠️ Now Building
+- **Interactive Dreaming Organisms**: Scaling sleep consolidation from latent VAEs to diffusion imagination.
+- **Next**: Somatosensory activation introspection and hallucination self-monitoring for Large Language Models (LLMs).
+
 <div align="center">
-  <h3>📫 Let's Build Something Extraordinary</h3>
-  <p>Open for AI Engineering roles, research collaborations, and high-impact technical opportunities.</p>
+  <h3>📫 Let's Connect</h3>
+  <p>Open for AI Research Engineering roles, collaborations, and high-impact machine learning systems.</p>
   <p><b>Direct Contact:</b> <a href="mailto:haidar904455@gmail.com">haidar904455@gmail.com</a> | <b>GitHub:</b> <a href="https://github.com/haidar167">haidar167</a></p>
 </div>
